@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecret": "Izotov_Dmitriy@yahoo.com",
+    "mongoUri": "mongodb://localhost:27017",
+    "baseUrl": "http://localhost:5000"
+}
